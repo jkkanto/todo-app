@@ -43,7 +43,7 @@
   border: 1px solid #ddd;
   border-radius: 5px 0 0 5px;
   font-size: 18px;
-  height: 20px; /* Adjusted to match the new button height */
+  height: 20px;
 }
 
 .todo-input button {
@@ -54,7 +54,7 @@
   border-radius: 0 5px 5px 0;
   cursor: pointer;
   font-size: 18px;
-  height: 44px; /* Adjusted to match the new input height */
+  height: 42px;
 }
 
 .todo-list {
@@ -65,9 +65,9 @@
 .todo-item {
   display: flex;
   align-items: center;
-  margin-bottom: 5px; /* Reduced from 10px to 5px */
+  margin-bottom: 5px;
   font-size: 18px;
-  padding: 5px 0; /* Added padding top and bottom */
+  padding: 5px 0;
 }
 
 .todo-item label {
@@ -92,7 +92,7 @@
   color: #ff6347;
   font-size: 1.4em;
   cursor: pointer;
-  padding: 0 5px; /* Added padding left and right */
+  padding: 0 5px;
 }
 
 .clear-completed {
@@ -107,7 +107,7 @@
 }
 
 button {
-  width: auto; /* Allow buttons to auto-size */
+  width: auto;
 }
 
 .add-todo-button {
