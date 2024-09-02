@@ -10,7 +10,6 @@ A simple todo application built with React, Redux, and Vite.
 
 ## Running the App
 
-    ```bash
     npm run dev
-    ```
+
 
